@@ -1,2 +1,1 @@
-one - 1
-from remote branch
+This is one form remote branch
